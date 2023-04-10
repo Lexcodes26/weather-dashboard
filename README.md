@@ -9,7 +9,7 @@ To be able to search the 5-day forecast for cities using Open Weather Map API. B
 
 For the 5-day forcast each city will also display the following data:
 
-- Date
+- Dated
 - Icon image
 - Temperature
 - Humidity
